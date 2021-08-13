@@ -1,0 +1,12 @@
+ol li{
+    display: inline-flex;
+}
+ol{
+    margin-left: 10%;
+}
+#ol1{
+    margin-top: 5%;
+}
+#ol2{
+    margin-top: 10%;
+}
